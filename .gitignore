@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.mat
+*.slxc
+slprj/
+octave-workspace
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Temp / build output (uncomment if you don't want generated artifacts tracked)
+# figures/
+# *.fis
